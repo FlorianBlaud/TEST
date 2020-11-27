@@ -1,3 +1,16 @@
+I- 
+
 git init
-git add [nom du fichier]
+git add [nom du fichier] #Séléction
 git add -r [nom du dossier]
+git add *.txt
+touch #Création
+git rm --cached [nom du fichier] #Déséléction
+
+II-
+
+git commit -m "message"
+git remote add origin https://github.com/FlorianBlaud/hello-world.git
+git push -u origin main
+git add file
+
